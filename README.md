@@ -1,3 +1,4 @@
+# Migration: https://github.com/dracula/rime
 # Dracula for [Rime](https://rime.im/)
 
 > A dark theme for [Rime](https://rime.im/).
